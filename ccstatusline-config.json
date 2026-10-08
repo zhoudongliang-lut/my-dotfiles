@@ -1,0 +1,88 @@
+{
+  "version": 4,
+  "lines": [
+    [
+      {
+        "id": "1",
+        "type": "model",
+        "color": "cyan"
+      },
+      {
+        "id": "8a157b25-8016-49aa-b4c6-4f3c29d974a3",
+        "type": "thinking-effort",
+        "backgroundColor": "bgMagenta"
+      },
+      {
+        "id": "a11d40c7-7e7d-485f-80b4-69df9d628dfc",
+        "type": "git-branch",
+        "backgroundColor": "bgBrightCyan"
+      },
+      {
+        "id": "a8bd1100-a56e-4323-8523-cc2a0c2028fd",
+        "type": "git-changes",
+        "backgroundColor": "bgBrightWhite"
+      }
+    ],
+    [
+      {
+        "id": "a1eba6ed-8318-4626-ab67-fe79497b1e78",
+        "type": "context-percentage",
+        "backgroundColor": "bgBrightBlack"
+      },
+      {
+        "id": "c3fe38d6-c098-4e0f-b242-246515338dd5",
+        "type": "cache-hit-rate",
+        "backgroundColor": "bgBrightMagenta"
+      },
+      {
+        "id": "d66c60bd-61f1-4516-8f34-3996febb17f5",
+        "type": "cache-read",
+        "backgroundColor": "bgMagenta"
+      }
+    ],
+    [
+      {
+        "id": "a3212cdf-8f41-426a-b286-c69c8b02f7f2",
+        "type": "fable-weekly-usage",
+        "backgroundColor": "bgBrightYellow"
+      },
+      {
+        "id": "63e02568-8782-4f9f-ae46-4cfebd0d93f6",
+        "type": "weekly-reset-timer",
+        "backgroundColor": "bgCyan"
+      },
+      {
+        "id": "120f6766-c7f1-451b-943c-3d00574a4a35",
+        "type": "output-speed",
+        "backgroundColor": "bgWhite"
+      }
+    ],
+    []
+  ],
+  "flexMode": "full-until-compact",
+  "compactThreshold": 60,
+  "colorLevel": 2,
+  "defaultPadding": " ",
+  "defaultPaddingSide": "both",
+  "inheritSeparatorColors": false,
+  "globalBold": false,
+  "gitCacheTtlSeconds": 5,
+  "terminalWidthCacheTtlSeconds": 5,
+  "customCommandCacheTtlSeconds": 0,
+  "minimalistMode": false,
+  "powerline": {
+    "enabled": true,
+    "separators": [
+      ""
+    ],
+    "separatorInvertBackground": [
+      false
+    ],
+    "startCaps": [],
+    "endCaps": [],
+    "theme": "nord-aurora",
+    "autoAlign": true,
+    "continueThemeAcrossLines": true
+  },
+  "exportedBy": "2.2.30"
+}
